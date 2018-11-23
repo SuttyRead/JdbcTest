@@ -1,0 +1,10 @@
+<dataset>
+    <roles id="1" name="Admin"/>
+    <roles id="2" name="User"/>
+    <roles id="3" name="Manager"/>
+    <roles id="4" name="RegisteredUser"/>
+
+    <users id="1" login="user_1" password="1234" email="user@db.com" firstname="Bob" lastname="Fincher" birthday="1974-01-15" role_id="1"/>
+    <users id="2" login="user_2" password="1234" email="finy@db.com" firstname="Benjamin" lastname="Franklin" birthday="1982-03-13" role_id="2"/>
+    <users id="3" login="user_3" password="1234" email="tiny@db.com" firstname="Mary" lastname="Jay" birthday="1996-11-25" role_id="2"/>
+</dataset>

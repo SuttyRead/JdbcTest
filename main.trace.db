@@ -1,0 +1,3 @@
+2018-11-23 16:59:31 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Timeout trying to lock table ; SQL statement:
+DELETE FROM users WHERE id = ?; [50200-197]
